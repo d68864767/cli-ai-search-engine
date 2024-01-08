@@ -1,0 +1,12 @@
+{
+  "openai_api_key": "your-openai-api-key-here",
+  "search_engine_settings": {
+    "default_search_language": "en",
+    "result_limit": 10
+  },
+  "api_settings": {
+    "engine": "davinci",
+    "temperature": 0.7,
+    "max_tokens": 150
+  }
+}
